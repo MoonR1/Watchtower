@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    background-image: url(ultra-hd-wazf67lzyh5q7k32.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: whitesmoke;
+    margin-top: 30px;
+}
+
+p{
+    color: white;
+    margin-top: 20px;
+    width: 400px;
+}
+
+#readmore{
+    margin-top: 20px;
+    padding-bottom: 200px;
+}
+
+h2{
+    color: whitesmoke;
+    margin-top: 990px;
+}
+
+.container{
+    border: 2px solid rgb(58, 6, 54);
+    padding-top: 35px;
+    width: 400px;
+    height: 250px;
+    margin-top: 150px;
+}
+
+button{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 3px 10px;
+}
+
+.check1{
+    font-size: 16px;
+    color: white;
+    margin-top: 8px;
+}
+
+input[type=checkbox]{
+    margin-right: 10px;
+}
+
+input[type=text], input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
+  label[for=username], label[for=password]{
+    color: white;
+  }
